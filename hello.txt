@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello GIT!
 This is the main branch!
+=======
+Hello GIT research info bla bla!
+>>>>>>> feature-branch
